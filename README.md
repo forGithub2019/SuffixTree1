@@ -1,4 +1,5 @@
-# markdown工具
+# SuffixTree
+
 
 [github推荐合集](https://github.com/wizardforcel/markdown-simple-world/blob/master/1.md)
 
