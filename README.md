@@ -15,7 +15,6 @@ bsd 系统
 Windows
 Mac OS X
 ```
-
 安装：
 ```
 tar -xzf ncrack-0.5.tar.gz
@@ -25,4 +24,6 @@ make
 su root
 make install
 ```
+github地址：[link](https://github.com/nmap/ncrack)
+(windows下 ncrack6.0, 7.0版本均无法启动；linux下make error。。。)
 
