@@ -5,6 +5,10 @@
 
 #scan工具   
 
+1. impacket   
+ 各种网络协议工具的合集，用于渗透。
+ https://github.com/SecureAuthCorp/impacket
+
 1.Hydra（爆破工具）
 很好用的爆破工具，kali中有集成，直接命令行输入：
 ```
